@@ -10,8 +10,8 @@ You can find the full documentation for this project following this link:
 
 Name  | Git Hub | LinkedIn
 ------------- | ------------- | -------------
-Alexandre Rapchan B. Barros  | [@AleRapchan](https://www.github.com/AleRapchan) | [Alexandre-rapchan](https://www.linkedin.com/in/alexandre-rapchan/) |
-Alexei Pancratov |  [@AlexeiPancratov](https://github.com/alexeipancratov) |  Linkedin link |
+Alexandre Rapchan B. Barros  | [@AleRapchan](https://www.github.com/AleRapchan) | [LinkedIn](https://www.linkedin.com/in/alexandre-rapchan/) |
+Alexei Pancratov |  [@AlexeiPancratov](https://github.com/alexeipancratov) |  [LinkedIn](https://www.linkedin.com/in/alexei-pancratov-07413b119/) |
 Michael Francis Jerome Victor | [@Mike-64](https://github.com/Mike-64)| Linkedin link |
 Dhruvam Patel | [@DhruvamPatel](https://github.com/dhruvampatel)| Linkedin link |
 
