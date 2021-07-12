@@ -3,8 +3,7 @@
 Food Supply Chain is a network to connect participants across the food supply industry through a permissioned and private record of food data. 
 
 ## Full Documentation
-You can find the full documentation for this project following this link:
-- [Full Documentation](https://rapchan.gitbook.io/hyperledger-food-supply-chain/)
+You can find the full documentation for this project following this link: [Full Documentation](https://rapchan.gitbook.io/hyperledger-food-supply-chain/)
 
 ## Authors
 
