@@ -14,10 +14,6 @@ Alexandre Rapchan B. Barros  | [@AleRapchan](https://www.github.com/AleRapchan) 
 Alexei Pancratov |  [@AlexeiPancratov](https://github.com/alexeipancratov) |  [LinkedIn](https://www.linkedin.com/in/alexei-pancratov-07413b119/) |
 Michael Francis Jerome Victor | [@Mike-64](https://github.com/Mike-64)| Linkedin link |
 Dhruvam Patel | [@DhruvamPatel](https://github.com/dhruvampatel)| Linkedin link |
-
-## Support
-
-For support, email blockchain@alexandrebarros.com or join our Slack channel.
 	
 ## Revisions
 Date  |  Revision  |  Description  |  Author
